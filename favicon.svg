@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="-0.49019608"
+       y="93.627451"
+       width="300.4902"
+       height="109.80392"
+       id="rect2" />
+    <rect
+       x="-0.010831905"
+       y="0"
+       width="300.48178"
+       height="300.7632"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.209" />
+    <text
+       xml:space="preserve"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333333px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#be2074;fill-opacity:1;stroke:#000000;stroke-width:0.209"
+       x="150.2451"
+       y="0"
+       transform="translate(0.98039216,36.764706)"><tspan
+         x="15.354912"
+         y="127.14208"
+         id="tspan1">nova client.</tspan></text>
+  </g>
+</svg>
